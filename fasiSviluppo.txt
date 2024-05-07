@@ -1,0 +1,13 @@
+1. Obiettivo del sito/app (a cosa serve)
+2. Target di riferimento (linguaggio, grafica, sulle meta informazioni)
+3. Tecnologie (HTML/CSS/Javascript - CMS (WordPress, Joomla!, Drupal...) - Framework (Angular, React, Vue...))
+4. Professionalità coinvolte (Grafico? - Content Manager? - SEO - DBA? - Sistemista?)
+5. Fase di progettazione (tempi: 1-2 settimane)
+6. Tempi di sviluppo (grafico-tecnico)
+	a. versione 0 (versione di prova)
+	b. versione alfa (prima versione pronta per il rilascio)
+	c. versione beta (versione alfa modificata/migliorata)
+	d. versione RC (release candidate: versione semi-definitiva)
+	e. versione 1.0 (versione di rilascio)
+7. Pubblicazione (registrazione dominio, acquisto spazio, acquisto servizi di hosting)
+8. Gestione (controllo funzionalità e funzionamento, controllo log, eventuali report periodici) e manutenzione (interventi ordinari: sostituzione/modifica immagini e/o contenuti (area amministrativa), aggiunta/rimozione elementi, modifiche NON STRUTTURALI di funzionalità esistenti - interventi straordinari: modifiche/creazioni grafiche, aggiunta sezioni, aggiunta funzionalità, modifiche STRUTTURALI di funzionalità esistenti) -> Contratto di manutenzione
