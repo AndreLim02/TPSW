@@ -1,0 +1,21 @@
+PROCEDURA DI LOGIN
+CLIENT:
+1. Invio username e password (dati)
+
+SERVER;
+2. Ricezione del Server DNS e traduzione del nome a dominio nel datagramma
+3. Invio del datagramma E dei dati ricevuti al server dati
+4. Elaborazione e verifica dei dati ricevuti
+5. Invio risposta al client (numerica: 200 (tutto a posto), 403 (dati sbagliati), 401 (non autorizzato), 404 (risorsa non trovata), 500 (errore interno del server)...)
+
+CLIENT:
+6. Invio richiesta in base alla risposta ricevuta (pagina di errore, messaggio di errore, risorsa autorizzata...)
+
+SERVER:
+7. Ricezione del Server DNS e traduzione del nome a dominio nel datagramma
+8. Invio del datagramma E della specifica risorsa richiesta al server dati
+9. Recupero e impacchettamento dei dati della risorsa
+9. Invio al client dei dati richiesti
+
+CLIENT:
+10. Elaborazione (interpretazione (HTML), transpilazione (CSS), compilazione (JavaScript)) e rendering (visualizzazione) dei dati ricevuti
