@@ -1,0 +1,11 @@
+IPv4: identifica le risorse MOBILI/TEMPORANEE (connessioni)
+000.000.000.000
+255.255.255.255
+
+IPv6: identifica le risorse STATICHE (siti/applicazioni)
+000.000.000.000.000.000
+255.255.255.255.255.255
+
+MAC Address: identifica la singola macchina che compie una determinata operazione
+00.00.00.00.00.00
+ff.ff.ff.ff.ff.ff
