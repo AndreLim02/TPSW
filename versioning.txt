@@ -1,0 +1,15 @@
+VERSIONING
+
+Tre numeri, generalmente progressivi
+
+PRIMO NUMERO: Major Version -> versione PRINCIPALE dell'applicazione; la modifica di questo numero indica una modifica SOSTANZIALE dell'applicazione
+
+SECONDO NUMERO: Minor Update -> livello di aggiornamento di struttura/funzionalità/rendering dell'applicazione; la modifica di questo numero indica una modifica in una o più caratteristiche dell'applicazione, SENZA MODIFICARNE la struttura sostanziale
+
+TERZO NUMERO: Patch Version -> correzioni di eventuali bug/implementazione di funzionalità già presenti ma non fruibili/piccoli miglioramenti grafici e/o funzionali; la modifica di questo numero indica l'applicazione di una o più patch, generalmente correttive
+
+Es.
+Versione LTS attuale di node.js: 20.13.0
+MAJOR VERSION: 20 (versione 20 del programma)
+MINOR UPDATE: 13 (aggiornamento numero 13 della versione 20 del programma)
+PATCH VERSION: 0 (numero di correzioni/migliorie applicate alla versione 20.13 del programma)
