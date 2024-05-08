@@ -1,0 +1,17 @@
+https://www.w3.org/
+
+https://html.spec.whatwg.org/multipage/
+
+https://www.w3.org/TR/css-2023/
+
+https://262.ecma-international.org/14.0/
+
+https://it.javascript.info/
+
+https://caniuse.com/
+
+https://developer.mozilla.org/en-US/
+
+https://stackoverflow.com/
+
+https://dev.to/
